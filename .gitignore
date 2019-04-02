@@ -80,6 +80,8 @@ fabric.properties
 
 .project
 *.iml
+.classpath
+target/
 
 *.DS_Store
 .AppleDouble
