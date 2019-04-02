@@ -15,7 +15,7 @@ curl 'http://127.0.0.1:8080/send/save?type=FILE&content=Foo'
  ```
  OR
  ```
-curl 'http://127.0.0.1:8080/send/save?type=DATABSE&content=Foo'
+curl 'http://127.0.0.1:8080/send/save?type=DATABASE&content=Foo'
  ```
 
 #### Logger listener (Consumer prints to console object content)
